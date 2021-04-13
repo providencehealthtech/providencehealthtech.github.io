@@ -1,0 +1,27 @@
+baseURL: https://providencehealthtech.com/
+languageCode: en-us
+title: Providence Health Tech
+theme: pht
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Solutions
+      weight: 2
+      url: /solutions
+    - name: Resources
+      weight: 3
+      url: /resources
+    - name: Contact Us
+      url: /contact
+      weight: 4
+params:
+  date_format: Jan 6, 2020
+  logo: img/logo.png
+  logo_small: img/logo.png
+  style: blue
+  features:
+    enable: true
+  carousel:
+    enable: true
