@@ -1,0 +1,55 @@
+:root {
+    --clr-primary-h: 267;
+    --clr-primary-s: 46%;
+    --clr-primary-l: 19%;
+    --clr-primary: hsl(var(--clr-primary-h), var(--clr-primary-s), var(--clr-primary-l));
+
+    --clr-white: hsl(0, 100%, 100%);
+
+    --ff-sans-serif: 'Mukta', arial, sans-serif;
+    --ff-serif: 'Arvo', serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--clr-primary);
+    color: var(--clr-white);
+    font-family: var(--ff-sans-serif);
+}
+
+.holding {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 100%;
+    height: 100vh;
+
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: hsl(var(--clr-primary-h) var(--clr-primary-s) var(--clr-primary-l) / .85);
+    background-blend-mode: multiply;
+
+    text-align: center;
+}
+
+.holding div {
+    width: 50vw;
+}
+
+.wordmark {
+    font-size: 3rem;
+    font-weight: 300;
+}
+
+.lead-text {
+    font-family: var(--ff-serif);
+    color: hsl(0 100% 100% / .75);
+    font-size: 1.25rem;
+    line-height: 1.6rem;
+}
