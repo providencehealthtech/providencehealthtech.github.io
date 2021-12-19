@@ -25,11 +25,11 @@ jobs:
         with:
           path: /tmp/hugo_cache
           key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
-          restore-keys:
+          restore-keys: |
             ${{ runner.os }}-hugomod-
 
       - name: Build
-        run: export GOCACHE=/tmp && hugo --minify
+        run: export GOCACHE=/tmp/hugo_cache && hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
