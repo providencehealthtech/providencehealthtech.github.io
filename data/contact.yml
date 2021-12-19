@@ -1,0 +1,33 @@
+email:
+  general: 'info@providencehealthtech.com'
+  sales: 'sales@providencehealthtech.com'
+  support: 'support@providencehealthtech.com'
+web: 'https://providencehealthtech.com'
+phone: '1-855-212-3669'
+fax: '407-720-4012'
+businessName: 'Providence HealthTech'
+address: |
+  PO Box 1392
+  Winter Park, FL 32790
+hours:
+  - day: Monday
+    open: 8:30am
+    close: 5:00pm
+  - day: Tuesday
+    open: 8:30am
+    close: 5:00pm
+  - day: Wednesday
+    open: 8:30am
+    close: 5:00pm
+  - day: Thursday
+    open: 8:30am
+    close: 5:00pm
+  - day: Friday
+    open: 8:30am
+    close: 5:00pm
+  - day: Saturday
+    open: Closed
+    close:
+  - day: Sunday
+    open: Closed
+    close:
