@@ -27,10 +27,10 @@ permalinks:
 params:
   homepage_meta_tags:
     meta_description: "Providence Healthtech is a health IT firm specializing in cloud-based EMR solutions."
-    meta_og_title: "Hugo Hero Theme"
+    meta_og_title: "Providence HealthTech"
     meta_og_type: "website"
     meta_og_url: "https://providencehealthtech.com"
-    meta_og_image: "https://raw.githubusercontent.com/providencehealthtech/providencehealthtech.github.io/master/static/images/homepage.png"
+    meta_og_image: "https://raw.githubusercontent.com/providencehealthtech/providencehealthtech.github.io/main/static/images/og_image.jpg"
     meta_og_description: "Providence Healthtech is a health IT firm specializing in cloud-based EMR solutions."
     meta_twitter_card: "summary"
     # meta_twitter_site: "@zerostaticio"
