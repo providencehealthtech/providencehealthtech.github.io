@@ -4,7 +4,7 @@ weight: 1
 background: 'images/grow.jpg'
 bg_classes:
   - bg-position-top
-  - bg-transparent-90
+  - bg-transparent-40
 button: 'Our Product'
 buttonLink: 'products'
 ---

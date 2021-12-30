@@ -26,7 +26,7 @@ permalinks:
   pages: "/:filename/"
 params:
   homepage_meta_tags:
-    meta_description: "Providence Healthtech is a health IT firm specializing in cloud-based EMR solutions."
+    meta_description: "Providence Healthtech is a Health IT firm specializing in cloud-based EMR solutions."
     meta_og_title: "Providence HealthTech"
     meta_og_type: "website"
     meta_og_url: "https://providencehealthtech.com"
@@ -38,6 +38,7 @@ params:
   date_format: Jan 6, 2020
   logo: img/logo.png
   logo_small: img/logo.png
+  google_analytics_id: G-0PN8Q2WGNG
 module:
   # replacements: "github.com/providencehealthtech/hugo-hero-theme -> ../../hugo-hero-theme"
   imports:
