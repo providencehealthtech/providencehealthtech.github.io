@@ -40,6 +40,6 @@ params:
   logo_small: img/logo.png
   google_analytics_id: G-0PN8Q2WGNG
 module:
-  replacements: "github.com/providencehealthtech/hugo-hero-theme -> ../../hugo-hero-theme"
+  # replacements: "github.com/providencehealthtech/hugo-hero-theme -> ../../hugo-hero-theme"
   imports:
     - path: github.com/providencehealthtech/hugo-hero-theme
