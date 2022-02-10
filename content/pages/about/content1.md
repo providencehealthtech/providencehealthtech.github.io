@@ -4,7 +4,7 @@ date: 2021-12-19
 weight: 1
 background: 'images/medical-equip.jpg'
 bg_classes:
-  - bg-transparent-90
+  - bg-transparent-40
   - bg-position-center
 align: left
 ---
