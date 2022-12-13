@@ -1,40 +1,52 @@
 baseURL: https://www.providencehealthtech.com/
 languageCode: en-us
-title: Providence HealthTech
+title: Providence Healthtech
 menu:
   main:
     # - name: Home
     #   url: /
     #   weight: 1
-    # - name: About
-    #   weight: 1
-    #   url: /about/
-    - name: School Nursing
-      weight: 2
-      url: /solutions/school-nursing/
+    - name: Our Services
+      url: /services/
+      weight: 1
+    # - name: Who We Serve
+    #   url: /who-we-serve/
+    #   weight: 2
+    # - name: Why Choose Providence
+    #   url: /why-choose-providence
+    #   weight: 3
+    - name: About
+      weight: 4
+      url: /about/
+    - name: Learn More
+      weight: 5
+      url: /contact/
+      classes:
+        - btn-primary
+    # - name: School Nursing
+    #   weight: 2
+    #   url: /solutions/school-nursing/
     # - name: Veterinary Medicine
     #   weight: 3
     #   url: /industry/veterinary-medicine/
-    - name: Global Health Initiative
-      weight: 4
-      url: /solutions/global-health/
-    - name: Contact
-      url: /contact/
-      weight: 5
+    # - name: Global Health Initiative
+    #   weight: 4
+    #   url: /solutions/global-health/
+    # - name: Contact
+    #   url: /contact/
+    #   weight: 5
 permalinks:
   post: "/:year/:month/:day/:slug/"
   pages: "/:filename/"
 params:
   homepage_meta_tags:
     meta_description: "Providence Healthtech is a Health IT firm specializing in cloud-based EMR solutions."
-    meta_og_title: "Providence HealthTech"
+    meta_og_title: "Providence Healthtech"
     meta_og_type: "website"
     meta_og_url: "https://providencehealthtech.com"
     meta_og_image: "https://raw.githubusercontent.com/providencehealthtech/providencehealthtech.github.io/main/static/images/og_image.jpg"
     meta_og_description: "Providence Healthtech is a health IT firm specializing in cloud-based EMR solutions."
     meta_twitter_card: "summary"
-    # meta_twitter_site: "@zerostaticio"
-    # meta_twitter_creator: "@zerostaticio"
   date_format: Jan 6, 2020
   logo: img/logo.png
   logo_small: img/logo.png

@@ -1,12 +1,12 @@
 ---
-title: 'Information Technology Excellence'
+title: 'Clinical Experience'
+date: 2021-12-19
 weight: 2
-date: 2018-12-06T09:29:16+10:00
-background: 'images/it_excellence.jpg'
+# background: 'images/medical-equip.jpg'
 bg_classes:
-  - bg-transparent-90
+#   - bg-transparent-40
   - bg-position-center
-align: right
+align: left
 ---
 
-Providence HealthTech carries years of experience in the health IT space.
+Our collective experience includes clinical experience in the field of nursing, clinical analytics, and informatics. We believe the shared experience of clinical care of patients leads to a stronger relationship with our clients.

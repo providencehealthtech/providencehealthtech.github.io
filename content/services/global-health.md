@@ -6,13 +6,13 @@ draft: false
 featured: true
 weight: 1
 heroHeading: 'Global Health Initiative'
-heroSubHeading: 'Supporting health equality for people, everywhere.'
+heroSubHeading: 'Supporting health equality for all people, in all places.'
 heroBackground: 'images/global-health.jpg'
 ---
 
-Providence HealthTech is committed to health equity around the world. The Providence HealthTech Global Health Initiative offers low-to-no cost EMR and Practice Management solutions to healthcare clinics in low and middle income countries. This includes a customized build out to meet the specific needs of the local area, access to training material, and use of our cloud infrastructure.
+Providence Healthtech is committed to health equity around the world. The Providence Healthtech Global Health Initiative offers low-to-no cost EMR and Practice Management solutions to healthcare clinics in low and middle income countries. This includes a customized implementation to meet the specific needs of the local area, access to training material, and use of our cloud infrastructure.
 
-Providence HealthTech provides access to {{< rawhtml >}}<a href="https://open-emr.org" target="_blank">OpenEMR</a>{{< /rawhtml >}}, the world's leading open-source electronic medical records software. If you are a non-profit organization operating health services in low and middle income countries or underserved populations.
+Providence Healthtech provides access to {{< rawhtml >}}<a href="https://open-emr.org" target="_blank">OpenEMR</a>{{< /rawhtml >}}, the world's leading open-source electronic medical records software. If you are a non-profit organization operating health services in low and middle income countries or underserved populations.
 
 ## Global Health Initiative Information Request
 
