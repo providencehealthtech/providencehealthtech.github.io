@@ -18,11 +18,13 @@ menu:
     - name: About
       weight: 4
       url: /about/
-    - name: Learn More
+    - name: Schedule a Demo
       weight: 5
-      url: /contact/
-      classes:
-        - btn-primary
+      params:
+        classes:
+          - cta
+          - ml-5
+      url: /schedule-a-demo/
     # - name: School Nursing
     #   weight: 2
     #   url: /solutions/school-nursing/
