@@ -1,5 +1,5 @@
 ---
-title: 'About Providence Healthtech'
+title: 'About Providence'
 date: 2021-12-19
 weight: 1
 # background: 'images/medical-equip.jpg'

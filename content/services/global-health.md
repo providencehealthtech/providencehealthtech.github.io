@@ -7,7 +7,7 @@ featured: true
 weight: 1
 heroHeading: 'Global Health Initiative'
 heroSubHeading: 'Supporting health equality for all people, in all places.'
-heroBackground: 'images/global-health.jpg'
+heroBackground: 'images/ghi.jpg'
 ---
 
 Providence Healthtech is committed to health equity around the world. The Providence Healthtech Global Health Initiative offers low-to-no cost EMR and Practice Management solutions to healthcare clinics in low and middle income countries. This includes a customized implementation to meet the specific needs of the local area, access to training material, and use of our cloud infrastructure.
