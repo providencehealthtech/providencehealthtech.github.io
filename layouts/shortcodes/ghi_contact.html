@@ -1,4 +1,4 @@
-<form action="https://formspree.io/f/mayvndya" method="POST" class="form">
+<form action="https://formspree.io/f/mayvndya" method="POST" class="form p-0">
     <div class="mb-1 col-12">
         <label for="clinic_name" class="form-label sr-only">Clinic Name</label>
         <input type="text" class="form-control" id="clinic_name" name="clinic_name" placeholder="Clinic Name">
@@ -10,7 +10,7 @@
     </div>
     <div class="mb-1 col-12">
         <label for="contact_email" class="form-label sr-only">Contact Email</label>
-        <input type="email" class="form-control" id="contact_email" name="contact_email" placeholder="Contact Email">
+        <input type="email" inputmode="email" class="form-control" id="contact_email" name="contact_email" placeholder="Contact Email">
     </div>
     <div class="mb-1 col-12">
         <label for="clinic_location" class="form-label sr-only">Clinic Location</label>
@@ -18,12 +18,13 @@
     </div>
     <div class="mb-1 col-12">
         <label for="num_patients" class="form-label sr-only">Estimated Number of Patient Served</label>
-        <input type="number" class="form-control" id="num_patients" name="num_patients" placeholder="300">
+        <input type="number" inputmode="numeric" pattern="[0-9]*" class="form-control" id="num_patients" name="num_patients" placeholder="Number of patient served">
     </div>
     <div class="mb-1 col-12">
         <label for="current_emr" class="form-label sr-only">Currently using an EMR?</label>
         <select class="form-control" name="current_emr" id="current_emr">
-            <option value="no" selected>No</option>
+            <option value="" disabled selected>Currently using an EMR?</option>
+            <option value="no">No</option>
             <option value="yes">Yes</option>
         </select>
     </div>
