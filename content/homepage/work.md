@@ -4,7 +4,7 @@ weight: 1
 background: 'images/grow.jpg'
 bg_classes:
   - bg-position-top
-  - bg-transparent-40
+  - bg-white-transparent-40
 button: 'Our Services'
 buttonLink: 'services'
 ---

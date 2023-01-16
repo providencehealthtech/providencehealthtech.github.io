@@ -4,7 +4,7 @@ weight: 2
 date: 2022-12-09
 # background: 'images/it_excellence.jpg'
 bg_classes:
-  # - bg-transparent-90
+  - bg-transparent-5
   - bg-position-center
 align: left
 ---

@@ -1,6 +1,11 @@
 ---
 title: 'Schedule a Call'
 weight: 2
+heroHeading: 'Schedule a Call'
+heroSubHeading: ""
+heroBackground: 'schedule-a-demo/demo.jpg'
+bg_classes:
+  - bg-position-bottom
 ---
 
 Interested in learning more about Providence's various offerings, including our flagship electronic medical record software? Schedule a call to discuss how Providence can improve your clinical and business workflows or view a tailor made demo of our EMR, Polaris.

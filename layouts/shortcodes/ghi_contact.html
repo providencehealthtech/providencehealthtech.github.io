@@ -1,0 +1,33 @@
+<form action="https://formspree.io/f/mayvndya" method="POST" class="form">
+    <div class="mb-1 col-12">
+        <label for="clinic_name" class="form-label sr-only">Clinic Name</label>
+        <input type="text" class="form-control" id="clinic_name" name="clinic_name" placeholder="Clinic Name">
+    </div>
+    <div class="mb-1 col-12 d-flex">
+        <label for="contact_name" class="form-label sr-only">Contact Name</label>
+        <input type="text" class="form-control" id="contact_name" name="contact_name" placeholder="First Name">
+        <input type="text" class="form-control" id="contact_name" name="contact_name" placeholder="Last Name">
+    </div>
+    <div class="mb-1 col-12">
+        <label for="contact_email" class="form-label sr-only">Contact Email</label>
+        <input type="email" class="form-control" id="contact_email" name="contact_email" placeholder="Contact Email">
+    </div>
+    <div class="mb-1 col-12">
+        <label for="clinic_location" class="form-label sr-only">Clinic Location</label>
+        <input type="text" class="form-control" id="clinic_location" name="clinic_location" placeholder="City, State, Country">
+    </div>
+    <div class="mb-1 col-12">
+        <label for="num_patients" class="form-label sr-only">Estimated Number of Patient Served</label>
+        <input type="number" class="form-control" id="num_patients" name="num_patients" placeholder="300">
+    </div>
+    <div class="mb-1 col-12">
+        <label for="current_emr" class="form-label sr-only">Currently using an EMR?</label>
+        <select class="form-control" name="current_emr" id="current_emr">
+            <option value="no" selected>No</option>
+            <option value="yes">Yes</option>
+        </select>
+    </div>
+    <div class="mb-1 col-12">
+        <button type="submit" class="btn btn-primary btn-outline-primary btn-block">Submit Initial Application</button>
+    </div>
+</form>

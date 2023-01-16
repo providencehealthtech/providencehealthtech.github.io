@@ -15,6 +15,9 @@ menu:
     # - name: Why Choose Providence
     #   url: /why-choose-providence
     #   weight: 3
+    - name: Global Health Initiative
+      weight: 2
+      url: /services/global-health
     - name: About
       weight: 4
       url: /about/
