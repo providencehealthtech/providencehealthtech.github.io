@@ -14,7 +14,7 @@
 <meta name=msapplication-TileColor content="#2e1a47">
 <meta name=msapplication-TileImage content="/mstile-144x144.png?v=20221213">
 <meta name=theme-color content="#ffffff">
-<link rel=stylesheet href=/css/style.min.6a5b03267ec0fa8de2801e9ecce8eb364294248ac2ef9afb884641ba18fa824e.css>
+<link rel=stylesheet href=/css/style.min.fb918216d11a703b69af90572d5a803092bfb2c87bf5737c4826b60446d2d120.css>
 </head>
 <body class="page page-services-single">
 <div id=main-menu-mobile class=main-menu-mobile>
@@ -100,7 +100,7 @@
 <p>Providence Healthtech provides access to
 <a href=https://open-emr.org target=_blank>OpenEMR</a>, the world&rsquo;s leading open-source electronic medical records software. If you are a non-profit organization operating health services in low and middle income countries or underserved populations.</p>
 <h2 id=global-health-initiative-information-request>Global Health Initiative Information Request</h2>
-<form action=https://formspree.io/f/mayvndya method=post class=form>
+<form action=https://formspree.io/f/mayvndya method=post class="form p-0">
 <div class="mb-1 col-12">
 <label for=clinic_name class="form-label sr-only">Clinic Name</label>
 <input type=text class=form-control id=clinic_name name=clinic_name placeholder="Clinic Name">
@@ -112,7 +112,7 @@
 </div>
 <div class="mb-1 col-12">
 <label for=contact_email class="form-label sr-only">Contact Email</label>
-<input type=email class=form-control id=contact_email name=contact_email placeholder="Contact Email">
+<input type=email inputmode=email class=form-control id=contact_email name=contact_email placeholder="Contact Email">
 </div>
 <div class="mb-1 col-12">
 <label for=clinic_location class="form-label sr-only">Clinic Location</label>
@@ -120,11 +120,11 @@
 </div>
 <div class="mb-1 col-12">
 <label for=num_patients class="form-label sr-only">Estimated Number of Patient Served</label>
-<input type=number class=form-control id=num_patients name=num_patients placeholder=300>
+<input type=number inputmode=numeric pattern=[0-9]* class=form-control id=num_patients name=num_patients placeholder="Number of patient served">
 </div>
 <div class="mb-1 col-12">
 <label for=current_emr class="form-label sr-only">Currently using an EMR?</label>
-<select class=form-control name=current_emr id=current_emr><option value=no selected>No</option><option value=yes>Yes</option></select>
+<select class=form-control name=current_emr id=current_emr><option value disabled selected>Currently using an EMR?</option><option value=no>No</option><option value=yes>Yes</option></select>
 </div>
 <div class="mb-1 col-12">
 <button type=submit class="btn btn-primary btn-outline-primary btn-block">Submit Initial Application</button>
