@@ -1,5 +1,5 @@
 ---
-title: 'Executive Leaderhsip'
+title: 'Executive Leadership'
 weight: 2
 date: 2022-12-09
 # background: 'images/it_excellence.jpg'
