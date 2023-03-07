@@ -8,11 +8,14 @@ weight: 1
 heroHeading: 'Global Health Initiative'
 heroSubHeading: 'Supporting health equality for all people, in all places.'
 heroBackground: 'images/ghi.jpg'
+image: 'images/ghi_card.jpg'
 button: Test
 buttonUrl: /test
 ---
 
 The Global Health Initiative is Providence Healthtech's committment to achieving the United Nation's Global Goal of Good Health and Well-Being.
+
+<!--more-->
 
 {{< rawhtml >}}
 <a href="/global-goals" class="mb-3 btn btn-primary btn-primary">Learn more about the Global Goals</a>

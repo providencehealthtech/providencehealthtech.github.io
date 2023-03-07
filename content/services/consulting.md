@@ -9,9 +9,12 @@ heroHeading: 'Consulting Services'
 heroSubHeading: 'Creating a path out of data'
 heroBackground: 'images/global-health.jpg'
 summary: "Offering consulting services for your clinical needs."
+image: 'images/brainstorm.jpg'
 ---
 
-Offering consulting services for your clinical needs.
+For healthcare providers needing to improve their health IT, clincial, or operational processes, Providence offers consulting services. We can assist in onboarding new ancillary software solutions, train your staff, or determine how to improve efficiency of your current soutions.
+
+<!--more-->
 
 ## Clinical Informatics
 
