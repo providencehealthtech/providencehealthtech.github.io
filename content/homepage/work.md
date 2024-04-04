@@ -1,5 +1,5 @@
 ---
-title: 'Helping your organization thrive'
+title: 'Electronic Medical Record software management and advising'
 weight: 1
 # background: 'images/grow.jpg'
 bg_classes:
@@ -10,4 +10,4 @@ buttonClasses:
 buttonLink: '#solutions'
 ---
 
-We offer a cloud-based electronic health records solution for your school, district, or private practice. Focus on taking care of patients, not your EHR solution. Our product is a fully-managed solution with no on-premise install required.
+Providence Healthtech offers healthcare IT management and advisory services to small and medium medical practices. We offer advanced OpenEMR customization and maintenance and can assist in the delivery of your EMR and Patient Portal solutions.

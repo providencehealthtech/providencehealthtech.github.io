@@ -1,6 +1,7 @@
 ---
 title: 'Our Difference'
-weight: 2
+weight: 3
+layout: left-with-icon
 background: ''
 bg_classes:
   - bg-position-top

@@ -1,10 +1,10 @@
 ---
-title: 'Global Health Initiative'
+title: 'Global Health Grant'
 date: 2018-11-18T12:33:46+10:00
 icon: 'images/global-icon.svg'
 draft: false
 featured: true
-weight: 1
+weight: 3
 heroHeading: 'Global Health Initiative'
 heroSubHeading: 'Supporting health equality for all people, in all places.'
 heroBackground: 'images/ghi.jpg'
@@ -13,7 +13,7 @@ button: Test
 buttonUrl: /test
 ---
 
-The Global Health Initiative is Providence Healthtech's committment to achieving the United Nation's Global Goal of Good Health and Well-Being.
+Providence Healthtech's philanthropic grant program offering low-to-no cost EMR solutions for developing health markets.
 
 <!--more-->
 

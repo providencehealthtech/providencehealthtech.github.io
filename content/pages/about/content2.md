@@ -1,5 +1,5 @@
 ---
-title: 'Clinical Experience'
+title: 'Who We Are'
 date: 2021-12-19
 weight: 2
 # background: 'images/medical-equip.jpg'
@@ -9,4 +9,4 @@ bg_classes:
 align: left
 ---
 
-Our collective experience includes clinical experience in the field of nursing, clinical analytics, and informatics. We believe the shared experience of clinical care of patients leads to a stronger relationship with our clients.
+Providence Healthtech was founded out of years of work in the open-source electronic medical records community and the lived experiences of nursing in the acute, inpatient hospital setting. We provide the expertise at the intersection of health care and information technology.

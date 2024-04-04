@@ -27,20 +27,17 @@ menu:
         classes:
           - cta
           - ml-5
-      identifier: 'calendly_schedule_a_demo'
-      url: '#'
-    # - name: School Nursing
-    #   weight: 2
-    #   url: /solutions/school-nursing/
-    # - name: Veterinary Medicine
-    #   weight: 3
-    #   url: /industry/veterinary-medicine/
-    # - name: Global Health Initiative
-    #   weight: 4
-    #   url: /solutions/global-health/
-    # - name: Contact
-    #   url: /contact/
-    #   weight: 5
+      url: 'schedule-a-demo'
+  footer:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Contact
+      url: /contact
+      weight: 2
+    - name: Newsroom
+      url: /newsroom
+      weight: 3
 permalinks:
   post: "/:year/:month/:day/:slug/"
   pages: "/:filename/"
@@ -53,13 +50,10 @@ params:
     meta_og_image: "https://raw.githubusercontent.com/providencehealthtech/providencehealthtech.github.io/main/static/images/og_image.jpg"
     meta_og_description: "Providence Healthtech is a health IT firm specializing in cloud-based EMR solutions."
     meta_twitter_card: "summary"
-  date_format: Jan 6, 2020
+  location: Winter Park, FL
   logo: img/logo.png
   logo_small: img/logo.png
   google_analytics_id: G-0PN8Q2WGNG
-  calendly:
-    - identifier: calendly_schedule_a_demo
-      url: providencehealthtech/demo?primary_color=2e1a47&hide_event_type_details=1
 module:
   # replacements: "github.com/providencehealthtech/hugo-hero-theme -> ../../hugo-hero-theme"
   imports:

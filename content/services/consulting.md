@@ -1,18 +1,18 @@
 ---
-title: 'Consulting Services'
+title: 'Advisory Services'
 date: 2022-12-01
 icon: 'images/lightbulb.svg'
 draft: false
 featured: true
-weight: 3
-heroHeading: 'Consulting Services'
+weight: 1
+heroHeading: 'Advisory Services'
 heroSubHeading: 'Creating a path out of data'
 heroBackground: 'images/global-health.jpg'
-summary: "Offering consulting services for your clinical needs."
+summary: "Offering advisory services for your clinical needs."
 image: 'images/brainstorm.jpg'
 ---
 
-For healthcare providers needing to improve their health IT, clincial, or operational processes, Providence offers consulting services. We can assist in onboarding new ancillary software solutions, train your staff, or determine how to improve efficiency of your current soutions.
+Lifecyle management of your healthcare IT projects including EMR migration, clinical efficiency audits, and technology-based revenue promotion.
 
 <!--more-->
 
@@ -24,6 +24,6 @@ The importance of clinical informatics in healthcare cannot be overstated. In to
 
 Providence can help you identify gaps in practice management, clinical workflow, and revenue cycle management.
 
-## OpenEMR Implmentation
+## OpenEMR Implementation
 
-Providence Healthtech can assist you in planning, designing, and implementing your custom OpenEMR solution. As a long-term member of the OpenEMR community, Providence is situated to assist you leverage open-source technology to improve your patient outcomes and clinical workflow.
+Providence Healthtech can assist you in planning, designing, and implementing your custom OpenEMR solution. As a long-term member of the OpenEMR community, Providence is situated to assist you leverage open-source technology to improve your patient outcomes and clinical workflow
