@@ -1,5 +1,5 @@
 ---
-title: 'Global Health Grant'
+title: 'Global Health'
 date: 2018-11-18T12:33:46+10:00
 icon: 'images/global-icon.svg'
 draft: false
@@ -11,6 +11,7 @@ heroBackground: 'images/ghi.jpg'
 image: 'images/ghi_card.jpg'
 button: Test
 buttonUrl: /test
+menus: main
 ---
 
 Providence Healthtech's philanthropic grant program offering low-to-no cost EMR solutions for developing health markets.

@@ -10,6 +10,7 @@ heroSubHeading: 'Creating a path out of data'
 heroBackground: 'images/global-health.jpg'
 summary: "Offering advisory services for your clinical needs."
 image: 'images/brainstorm.jpg'
+menus: main
 ---
 
 Lifecyle management of your healthcare IT projects including EMR migration, clinical efficiency audits, and technology-based revenue promotion.

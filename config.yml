@@ -3,31 +3,13 @@ languageCode: en-us
 title: Providence Healthtech
 menu:
   main:
-    # - name: Home
-    #   url: /
-    #   weight: 1
-    - name: Our Services
-      url: /services/
-      weight: 1
-    # - name: Who We Serve
-    #   url: /who-we-serve/
-    #   weight: 2
-    # - name: Why Choose Providence
-    #   url: /why-choose-providence
-    #   weight: 3
-    - name: Global Health Initiative
-      weight: 2
-      url: /services/global-health
-    - name: About
-      weight: 4
-      url: /about/
     - name: Schedule a Demo
       weight: 5
       params:
         classes:
           - cta
           - ml-5
-      url: 'schedule-a-demo'
+      url: '/schedule-a-demo'
   footer:
     - name: Home
       url: /

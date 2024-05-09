@@ -1,5 +1,5 @@
 ---
-title: 'Electronic Medical Record software management and advising'
+title: 'Leaders in the OpenEMR community'
 weight: 1
 # background: 'images/grow.jpg'
 bg_classes:
@@ -10,4 +10,8 @@ buttonClasses:
 buttonLink: '#solutions'
 ---
 
-Providence Healthtech offers healthcare IT management and advisory services to small and medium medical practices. We offer advanced OpenEMR customization and maintenance and can assist in the delivery of your EMR and Patient Portal solutions.
+Providence Healthtech offers tailored advising, management, and development
+solutions for small medical practices, veterinary clinics, and school districts.
+Whether you need advising services for your current EMR infrastructure or a 
+managed EMR solution, Providence Healthtech can help improve patient outcomes 
+increase revenue cycle management.

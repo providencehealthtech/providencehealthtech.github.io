@@ -9,6 +9,8 @@ heroHeading: 'School Nursing'
 heroSubHeading: 'Keeping the next generation happy and healthy.'
 heroBackground: 'images/school_nursing_2.jpg'
 image: 'images/school_nursing.jpg'
+draft: true
+headless: true
 ---
 
 Elevate your K-12 Health Services by integrating a budget-friendly, outcomes-focused EMR managed by Providence Healthtech.
